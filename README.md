@@ -1,6 +1,4 @@
 # sex4NGS
-sex works for NGS data
-# sex4NGS
 
 The BAM Sex Prediction Tool is a Python script designed to extract chromosome counts from BAM files and predict the sex of samples based on these counts. It calculates the number of reads mapped to specific chromosomes (such as chr19, chrX, and chrY) and uses these numbers to determine the sex of the sample (XX or XY).
 
